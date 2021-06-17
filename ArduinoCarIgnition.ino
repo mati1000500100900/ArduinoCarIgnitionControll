@@ -8,8 +8,8 @@
 
 //constants
 #define timerDuration 20
-#define treshold_hi 885
-#define treshold_lo 865
+#define treshold_hi 890
+#define treshold_lo 860
 //#define debug
 
 //variables
